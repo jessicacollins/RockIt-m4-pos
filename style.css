@@ -1,0 +1,16 @@
+body {
+	background-color: lightgrey;
+}
+
+td {
+	padding: 10px;
+	border: 1px solid #fff;
+}
+
+.addItem td {
+	border: 0;
+}
+
+ul.error li{
+	color: red;
+}
